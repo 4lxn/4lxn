@@ -16,7 +16,16 @@ By day I work on iOS build and release engineering at Audible (Amazon). By night
 
 
 ### Also
-- **[edp](https://github.com/4lxn/edp)** — bilingual site and photo galleries for a tropical-timber architecture studio, live at estructurasdelpacifico.com.
+- **[Keystone](https://github.com/4lxn/keystone)** — an AI sales agent for real-estate developers and the CRM their advisors work from: answers leads on WhatsApp and Telegram from the real price list, books the visit, steps aside when a human takes over. Python/FastAPI, Postgres, React. Live for a client since June 2026.
+- **[Estructuras del Pacífico](https://estructurasdelpacifico.com)** ([repo](https://github.com/4lxn/edp)) — bilingual site and photo galleries for a tropical-timber architecture studio in Zihuatanejo.
+
+<p align="center">
+  <a href="https://estructurasdelpacifico.com"><img src="assets/edp-hero.jpg" width="100%" alt="Estructuras del Pacífico: hero"></a>
+</p>
+<p align="center">
+  <a href="https://estructurasdelpacifico.com"><img src="assets/edp-obra.jpg" width="49%" alt="Estructuras del Pacífico: obra selecta"></a>
+  <a href="https://estructurasdelpacifico.com"><img src="assets/edp-proyectos.jpg" width="49%" alt="Estructuras del Pacífico: proyectos"></a>
+</p>
 
 ### How I work
 
