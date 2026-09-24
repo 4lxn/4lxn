@@ -14,12 +14,8 @@ By day I work on iOS build and release engineering at Audible (Amazon). By night
   <a href="https://github.com/4lxn/pacer"><img src="https://raw.githubusercontent.com/4lxn/pacer/main/docs/screenshots/dynamic-island.png" width="180" alt="Pacer: Dynamic Island"></a>
 </p>
 
-Empty repo to 23 TestFlight builds in six days · 131 tests · 51 PRs · Swift 6 strict concurrency · HealthKit, MapKit, EventKit, ActivityKit, WidgetKit, App Intents.
 
 ### Also
-
-- **[trading-bot](https://github.com/4lxn/trading-bot)** — a trend-following BTC strategy, backtested 2017–2026 on real data and automated to run 24/7. Python.
-- **[polymarket](https://github.com/4lxn/polymarket)** — an experiment: a swarm of Claude Code instances coordinating through a versioned Obsidian vault and a zero-dependency local MCP server.
 - **[edp](https://github.com/4lxn/edp)** — bilingual site and photo galleries for a tropical-timber architecture studio, live at estructurasdelpacifico.com.
 
 ### How I work
