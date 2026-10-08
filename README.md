@@ -15,6 +15,16 @@ By day I work on iOS build and release engineering at Audible (Amazon). By night
 </p>
 
 
+### Also new: motion-explainer
+
+**[motion-explainer](https://github.com/4lxn/motion-explainer)** turns *"explain this"* into a motion-graphics animation you can pause, step through and zoom into. A Claude Code skill: Claude storyboards the steps, builds one self-contained HTML player, lints it, reviews a screenshot of every step, and can narrate it in English or Spanish with local voices. Open source, MIT.
+
+<p align="center">
+  <a href="https://4lxn.github.io/motion-explainer/login-flow.html"><img src="https://raw.githubusercontent.com/4lxn/motion-explainer/main/docs/demo.webp" width="100%" alt="motion-explainer: a login flow animated from one prompt"></a>
+</p>
+<p align="center"><sub>Made from one prompt: <i>"Explain a login flow. Icon on every box, a terminal mockup for the curl call, a latency chart, zoom into the auth service, hud theme."</i> · <a href="https://4lxn.github.io/motion-explainer/login-flow.html">play it</a> · <a href="https://4lxn.github.io/motion-explainer/">more demos</a></sub></p>
+
+
 ### Also
 - **[Keystone](https://github.com/4lxn/keystone)** — an AI sales agent for real-estate developers and the CRM their advisors work from: answers leads on WhatsApp and Telegram from the real price list, books the visit, steps aside when a human takes over. Python/FastAPI, Postgres, React. Live for a client since June 2026.
 - **[Estructuras del Pacífico](https://estructurasdelpacifico.com)** ([repo](https://github.com/4lxn/edp)) — bilingual site and photo galleries for a tropical-timber architecture studio in Zihuatanejo.
